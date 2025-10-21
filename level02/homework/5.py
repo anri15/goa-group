@@ -5,8 +5,6 @@ goa = 5/5 #1.0
 goa = 5//5 #1
 goa = 5*5 #25
 goa = 5**5 #15625
-
-
-
-
-
+num1 = 9
+num2 = 7
+print (num1 + num2)
