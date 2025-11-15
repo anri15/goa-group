@@ -5,6 +5,6 @@
 #დაპრინტეთ
 #"მე დავიბადე 2001 წელში და ვარ 24 წლის"
 
-user_year = int(input ("enter your year: "))
-user_yearr = (2025-2015)
-print("მე დავიბადე" + user_year + "და ვარ" + user_yearr)
+user_year = int(input ("whats your year: "))
+user_yeart = 2025-user_year
+print ("მე დავიბადე" +  str(user_year) + "წელში" + "და ვარ" + str(user_yeart) + "წლის")
