@@ -1,0 +1,11 @@
+#2)ჩამოწერე and და or ყველა შესაძლო ვარიანტი
+
+print("true" and "false")
+print("true" and "true")
+print("false" and "false")
+print("true" or "false")
+print("true" or "true")
+print("false" or "false")
+
+
+
