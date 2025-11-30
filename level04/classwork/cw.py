@@ -1,4 +1,4 @@
-user_name = 'anri'
+
 
 user_city = 'tbilisi'
 
