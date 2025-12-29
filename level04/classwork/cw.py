@@ -1,10 +1,13 @@
+#1)მომხარებელს შემოატანინეთ სახელი და შეინახეთ ცვლადში ussr_name, შემდეგ შემოატანინეთ ქალაქი, და შეინახეთ ცვლადში user_city
+
+#შემდეგ დაპრინტეთ წინადადება "გამარჯობა {user_name}, შენ ცხოვრობ {user_city} ში"
 
 
-user_city = 'tbilisi'
+user_name = input("enyer your name: ")
+
+user_city = input("enter your city: ")
 
 
-print('output(user_name)')
 
-print('output(user_city)')
 
-print("გამარჯობა user_name + user_city")
+print("გამარჯობა" + user_name + "შენ ცხოვრობ" + user_city)
