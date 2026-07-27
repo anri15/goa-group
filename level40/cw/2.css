@@ -1,0 +1,12 @@
+#a:hover{
+    background-color: blue;
+}
+#b:active{
+    background-color: black;
+}
+#c:link{
+    background-color: aqua;
+}
+#d:visited{
+    background-color: blue;
+}
