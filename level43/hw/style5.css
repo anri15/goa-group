@@ -1,0 +1,10 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+card{
+    background-color: brown;
+    border: 7px dashed forestgreen;
+    padding: 30px;
+}

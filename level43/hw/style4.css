@@ -1,0 +1,14 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#a{
+    padding: 30px;
+}
+#b{
+    padding: 35px;
+}
+#c{
+    padding: 40px;
+}
