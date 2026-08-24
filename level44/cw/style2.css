@@ -1,0 +1,15 @@
+* {
+    padding: 0px;
+    margin: 0px; 
+    box-sizing: border-box; 
+}
+body{
+    height: 100hv;
+}
+#a{
+    width: 600px;
+    height: 600px;
+}
+#b{
+    justify-content: space-between;
+}

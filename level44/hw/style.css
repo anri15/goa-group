@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px; 
+    box-sizing: border-box; 
+}
+body{
+    height: 100hv;
+}
+#parent{
+    width: 800px;
+    height: 500px;
+}
+.child{
+    justify-content: flex-start;
+    align-items: center;
+}
