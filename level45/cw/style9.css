@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px; 
+    box-sizing: border-box; 
+}
+body{
+    height: 100hv;
+}
+#b{
+    width: 600px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}

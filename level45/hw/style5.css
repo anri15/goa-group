@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px; 
+    box-sizing: border-box; 
+}
+body{
+    height: 100hv;
+}
+#parent{
+    width: 900px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+}

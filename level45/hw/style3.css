@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px; 
+    box-sizing: border-box; 
+}
+body{
+    height: 100hv;
+}
+#parent{
+    width: 800px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
