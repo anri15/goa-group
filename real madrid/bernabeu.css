@@ -1,0 +1,18 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+}
+div{
+    border: 5px dashed aqua;
+    background-color: #ee311c;
+}
+h1{
+    color: #0b2f61;
+}
+p{
+    color: #24c421;
+}

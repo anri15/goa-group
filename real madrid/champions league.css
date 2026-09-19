@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+}
+div{
+    border: 5px dashed rgb(16, 16, 142);
+    padding: 10px;
+    background-color: rgb(51, 82, 124);
+    border-radius: 10px;
+}
+img{
+    color: blue;
+}
+h1{
+    color: rgb(143, 16, 86);
+}
+p{
+    color: rgb(2, 46, 14);
+}
