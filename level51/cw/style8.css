@@ -1,0 +1,39 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    background-image: url("images.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.box {
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+}
+
+.one {
+    background-image: url("images.jpg");
+    background-size: cover;
+    background-position: top left;
+}
+
+.two {
+    background-image: url("images.jpg");
+    background-size: contain;
+    background-position: center;
+}
+
+.three {
+    background-image: url("images.jpg");
+    background-size: 150px 150px;
+    background-position: bottom right;
+}

@@ -1,0 +1,15 @@
+body {
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+div {
+    height: 200px;
+    margin: 20px;
+    background-color: lightblue;
+    background-image: url(images.jpg);
+    font-size: 30px;
+}

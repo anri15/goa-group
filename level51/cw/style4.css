@@ -1,0 +1,12 @@
+#div1{
+    background-image: url(images.jpg);
+    background-position: top left;
+}
+#div2{
+    background-image: url(images.jpg);
+    background-position: center;
+}
+#div3{
+    background-image: url(images.jpg);
+    background-position: bottom right;
+}
