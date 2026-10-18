@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    width: 900px;
+    margin: 100px;
+    border-radius: 10px;
+}
+
+.card {
+    padding: 35px;
+    color: white;
+}
+
+.sedans {
+    background: hsl(31, 77%, 52%);
+}
+
+.suvs {
+    background: hsl(184, 100%, 22%);
+}
+
+.luxury {
+    background: hsl(179, 100%, 13%);
+}
+
+.card img {
+    width: 80px;
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+.card h2 {
+    margin-bottom: 25px;
+}
+
+.card p {
+    margin-bottom: 35px;
+}
+
+.card button {
+    background: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 12px 25px;
+    font-size: 14px;
+}
+
+.sedans button {
+    color: hsl(31, 77%, 52%);
+}
+
+.suvs button {
+    color: hsl(184, 100%, 22%);
+}
+
+.luxury button {
+    color: hsl(179, 100%, 13%);
+}
+
+.card button:hover {
+    color: white;
+}
