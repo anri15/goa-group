@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    transition: 1s;
+}
+div:hover{
+    transform: translate(100px) rotate(45deg);
+    background-color: green;
+    
+}
