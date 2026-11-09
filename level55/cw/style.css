@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    animation-name: rotate;
+    animation-iteration-count: infinite;
+    animation-duration:  5s;
+
+}
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
